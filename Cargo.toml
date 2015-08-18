@@ -8,5 +8,5 @@ Provides an efficient wrapper around VecDeque, enabling safe internal mutability
 homepage = "https://github.com/Diggsey/deque_cell"
 repository = "https://github.com/Diggsey/deque_cell"
 readme = "README.md"
-keywords = ["queue", "channel", "single-threaded", "deque", "cell", "DequeCell", "VecDeque"]
+keywords = ["queue", "channel", "deque", "cell", "DequeCell"]
 license = "MIT/Apache-2.0"
