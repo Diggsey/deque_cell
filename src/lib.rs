@@ -1,4 +1,4 @@
-#![feature(fnbox)]
+#![cfg_attr(test, feature(fnbox))]
 
 use std::collections::VecDeque;
 use std::cell::UnsafeCell;

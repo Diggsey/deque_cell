@@ -2,3 +2,11 @@
 name = "deque_cell"
 version = "0.1.0"
 authors = ["Diggory Blake <diggsey@googlemail.com>"]
+description = """
+Provides an efficient wrapper around VecDeque, enabling safe internal mutability without the overhead of RefCell's runtime checks.
+"""
+homepage = "https://github.com/Diggsey/deque_cell"
+repository = "https://github.com/Diggsey/deque_cell"
+readme = "README.md"
+keywords = ["queue", "channel", "single-threaded", "deque", "cell", "DequeCell", "VecDeque"]
+license = "MIT/Apache-2.0"
